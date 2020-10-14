@@ -1,0 +1,20 @@
+{
+  "name": "unit18budgettracker",
+  "version": "1.0.0",
+  "description": "unit18",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salnation/Unit18BudgetTracker.git"
+  },
+  "author": "salnation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salnation/Unit18BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/salnation/Unit18BudgetTracker#readme"
+}
