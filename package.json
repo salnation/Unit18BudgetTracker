@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/salnation/Unit18BudgetTracker/issues"
   },
-  "homepage": "https://github.com/salnation/Unit18BudgetTracker#readme"
+  "homepage": "https://github.com/salnation/Unit18BudgetTracker#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
 }
